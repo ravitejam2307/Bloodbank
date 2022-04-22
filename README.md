@@ -3,7 +3,7 @@ I have created blood management website with azure web bot. I have used html ,cs
 
 Link of the AZURE BOT Service used in our project:https://azure.microsoft.com/en-us/services/bot-services/
 
-Test my project(my website link):
+Test my project(my website link): https://ravitejam2307.github.io/Bloodbank/
 
 Some of the images scrrenshots take while creating bot chat(Steps followed)
 
