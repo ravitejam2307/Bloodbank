@@ -1,5 +1,6 @@
 # Bloodbank
-I have created blood management website with azure web bot. I have used html ,css, azure bot service to create this project the bot can display the price of the blood and you can place the order with bot.
+Proj Title: The bot which helps in ording the blood.
+DESC:I have created a blood management website with an azure web bot. I have used HTML ,CSS, Azure bot service to create this project the bot can display the price of the blood and you can place the order with the chatbot.
 
 Link of the AZURE BOT Service used in our project:https://azure.microsoft.com/en-us/services/bot-services/
 
